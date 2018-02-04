@@ -1,13 +1,13 @@
 # Build results
-./*/labosi/[Dd]ebug/
-./*/labosi/labosi/[Dd]ebug/
+/*/labosi/[Dd]ebug/
+/*/labosi/labosi/[Dd]ebug/
 
-./*/labosi/Backup/
-./*/labosi/labosi/Backup/
+/*/labosi/Backup/
+/*/labosi/labosi/Backup/
 
 # User data
-./*/labosi/*.suo
-./*/labosi/*.v12.suo
-./*/labosi/ipch/
-./*/labosi/*.sdf
+/*/labosi/*.suo
+/*/labosi/*.v12.suo
+/*/labosi/ipch/
+/*/labosi/*.sdf
 
