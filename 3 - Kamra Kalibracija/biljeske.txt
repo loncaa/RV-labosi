@@ -1,0 +1,11 @@
+prvih pet slika da se sto bolje vide kockice
+
+
+- potrebno je dobiti udaljenost pravca od gornjeg lijevo kuta i pod kojim je kutem
+- paziti redosljed klkanja
+- 
+
+P - projekciski vektor
+s - skala
+
+https://stackoverflow.com/questions/18951713/draw-the-lines-detected-by-cvhoughlines

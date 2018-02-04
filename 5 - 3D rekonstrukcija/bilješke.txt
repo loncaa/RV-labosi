@@ -1,0 +1,3 @@
+fundamentalnamatrica koja sadrži informaciju o epipolarnoj geometriji kamera.
+
+Esencijalna matrica E sadrþi informacije o translaciji i rotaciji koje vežu dvije kamere u prostoru. Fundamentalna matrica F sadrži, uz informacije koje sadrži esencijalna matrica, i intrinsiène parametre obje kamere.

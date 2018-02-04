@@ -1,0 +1,10 @@
+#matrica homografije se napravi na osnovu sparenih znacajki, tj. njihovih tocaka.
+#poznajemo 4 tocke i odredimo 4 tocke.
+
+#funkcija zna tocku modela koja je sparena sa tockom scene, i sa vise od 4 tocke odredi matricu homografije.
+
+#nakon toga, 4 tocke rubova objekta, sa matricom homografije prebaci u nove 4 tocke koje se nalaze na sceni
+
+
+getPerspectiveTransform - 4 tocke
+findhomography - vise tocaka

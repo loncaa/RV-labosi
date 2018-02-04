@@ -1,0 +1,2 @@
+3 - kalibracija kamere
+4 - implementirati RAnsac
